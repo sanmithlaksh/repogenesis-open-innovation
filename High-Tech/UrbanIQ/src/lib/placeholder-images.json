@@ -1,0 +1,70 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-image",
+      "description": "A bustling city street with clean infrastructure, representing an ideal urban environment.",
+      "imageUrl": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxjaXR5JTIwc3RyZWV0fGVufDB8fHx8MTc2Mzc0NDA5Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "city street"
+    },
+    {
+      "id": "user-avatar-1",
+      "description": "Avatar for a citizen user.",
+      "imageUrl": "https://images.unsplash.com/photo-1521119989659-a83eee488004?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjM3MTEyNTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "user-avatar-2",
+      "description": "Avatar for a government official.",
+      "imageUrl": "https://images.unsplash.com/photo-1595211877493-41a4e5f236b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxwcm9mZXNzaW9uYWwlMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjM3NjE4ODB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "professional portrait"
+    },
+    {
+      "id": "issue-pothole",
+      "description": "A large pothole on a city road.",
+      "imageUrl": "https://images.unsplash.com/photo-1657811146442-0d66d65dbe92?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxyb2FkJTIwcG90aG9sZXxlbnwwfHx8fDE3NjM3Mzc0NTh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "road pothole"
+    },
+    {
+      "id": "issue-trash",
+      "description": "An overflowing trash can on a sidewalk.",
+      "imageUrl": "https://images.unsplash.com/photo-1711333927183-6a6730c9ea6c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxvdmVyZmxvd2luZyUyMHRyYXNofGVufDB8fHx8MTc2Mzc5MDc3OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "overflowing trash"
+    },
+    {
+      "id": "issue-water-leak",
+      "description": "Water leaking from a broken pipe on the street.",
+      "imageUrl": "https://images.unsplash.com/photo-1560673429-b9b9338a360a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHx3YXRlciUyMGxlYWt8ZW58MHx8fHwxNzYzNzM3NDU4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "water leak"
+    },
+    {
+      "id": "issue-broken-light",
+      "description": "A broken street light at night.",
+      "imageUrl": "https://images.unsplash.com/photo-1643783690791-ee2724608313?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxicm9rZW4lMjBzdHJlZXRsaWdodHxlbnwwfHx8fDE3NjM3OTA3Nzl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "broken streetlight"
+    },
+    {
+      "id": "accomplishment-park",
+      "description": "A newly renovated and clean public park.",
+      "imageUrl": "https://images.unsplash.com/photo-1623593419606-7f9c8c22d736?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxjaXR5JTIwcGFya3xlbnwwfHx8fDE3NjM3OTA3Nzl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "city park"
+    },
+    {
+      "id": "accomplishment-road",
+      "description": "A newly paved and smooth road.",
+      "imageUrl": "https://images.unsplash.com/photo-1577272541295-8694039b33f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxwYXZlZCUyMHJvYWR8ZW58MHx8fHwxNzYzNzkwNzgwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "paved road"
+    },
+    {
+      "id": "accomplishment-light-fixed",
+      "description": "A newly fixed and shining street light.",
+      "imageUrl": "https://images.unsplash.com/photo-1568401332366-0e3ebe917e1f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxzdHJlZXQlMjBsaWdodHxlbnwwfHx8fDE3NjM3OTA3Nzl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "street light"
+    },
+    {
+      "id": "map-placeholder",
+      "description": "A placeholder image of a city map.",
+      "imageUrl": "https://images.unsplash.com/photo-1730317195705-8a265a59ed1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxjaXR5JTIwbWFwfGVufDB8fHx8MTc2Mzc1MDQyNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "city map"
+    }
+  ]
+}
